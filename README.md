@@ -6,7 +6,7 @@ Examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days
 Key contributors: Vaughan Roberts
 
 ## Assessment Approach
-[View Juypter Notebook](./analysis_findings/workbooks/WHO_vizualizations_statum.ipynb)
+[View Juypter Notebook]()
 
 
 
