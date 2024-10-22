@@ -6,9 +6,6 @@ Examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days
 Key contributors: Vaughan Roberts
 
 ## Assessment Approach
-[View Juypter Notebook]()
-
-
 
 The Jupyter Notebook Crypto_Clustering_VROBERTS.ipynb provides algorithmic analysis with supporting visualizations on a cryptocurrency dataset leveraging K-means applied to original scaled data, K-means with PCA applied to evaluate the efficacy between these methodologies. 
 
