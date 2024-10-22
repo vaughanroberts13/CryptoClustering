@@ -14,4 +14,4 @@ The Jupyter Notebook Crypto_Clustering_VROBERTS.ipynb provides algorithmic analy
 > 
 - Pandas: Data manipulation and analysis.
 > 
-- Jupyter Notebook: Interactive development, documentation.
+- Jupyter Notebook: Interactive development, documentation and validation.
